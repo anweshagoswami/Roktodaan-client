@@ -7,7 +7,7 @@ import { Toaster } from 'sonner';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Blood Aid Network',
+  title: 'RoktoDaan',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

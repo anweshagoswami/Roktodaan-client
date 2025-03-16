@@ -12,27 +12,27 @@ import Image from 'next/image';
 const CoverageArea = () => {
   const coverageArea = [
     {
-      name: 'Rajshahi',
+      name: 'Kolkata',
       image: raj,
     },
     {
-      name: 'Pabna',
+      name: 'Howrah',
       image: pabna,
     },
     {
-      name: 'Sirajganj',
+      name: 'Hooghly',
       image: sir,
     },
     {
-      name: 'Natore',
+      name: 'North 24 Pgs.',
       image: natore,
     },
     {
-      name: 'Kustia',
+      name: 'South 24 Pgs.',
       image: kus,
     },
     {
-      name: 'Bogura',
+      name: 'Bardhaman',
       image: bog,
     },
   ];

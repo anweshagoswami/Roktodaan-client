@@ -11,23 +11,23 @@ import profile from '@/assets/team/profile.png';
 const TeamMembers = () => {
   const teamMembers = [
     {
-      name: 'MD Mehdi Hasan',
-      role: 'Founder',
+      name: 'Anwesha Goswami',
+      role: 'Backend Developer',
       image: boy,
     },
     {
-      name: 'MH Shohan',
-      role: 'Developer',
+      name: 'Sneha lahiri',
+      role: 'Backend Developer',
       image: gamer,
     },
     {
-      name: 'Nasim Sheikh',
-      role: 'Manager',
+      name: 'Rima Kar',
+      role: 'Frontend Developer',
       image: man,
     },
     {
-      name: 'Rahat Khan',
-      role: 'Manager',
+      name: 'Sayantika Bhunia',
+      role: 'Frontend Developer',
       image: profile,
     },
   ];

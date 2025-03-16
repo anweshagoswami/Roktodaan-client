@@ -7,7 +7,7 @@ export default function HomeLayout({ children }: { children: React.ReactNode }) 
     <>
       <CssBaseline />
       <Header />
-      <main style={{ backgroundColor: '#CDE8E5', marginTop: '62px' }}>{children}</main>
+      <main style={{ backgroundColor: '#BE3144', marginTop: '62px' }}>{children}</main>
       <Footer />
     </>
   );

@@ -12,22 +12,22 @@ export default function Contact() {
   return (
     <ContactSection id='ContactSection'>
       <Container>
-        <SectionTitle title='Contact' />
+        <SectionTitle title='Contact Us' />
         <Information>
           <Grid container>
             <Grid item md={5}>
               <ContactInfo>
                 <IconContainer>
                   <FmdGoodOutlinedIcon />
-                  <h4>Sheikh Rasel Hall, BSMRSTU</h4>
+                  <h4>Heritage Institute of Technology Kolkata</h4>
                 </IconContainer>
                 <IconContainer>
                   <EmailOutlinedIcon />
-                  <h4>mehdihasanshohan25@gmail.com</h4>
+                  <h4>admin@roktodaan.in</h4>
                 </IconContainer>
                 <IconContainer>
                   <PhoneIphoneOutlinedIcon />
-                  <h4>+8801721146655</h4>
+                  <h4>+91-7003071463</h4>
                 </IconContainer>
               </ContactInfo>
             </Grid>

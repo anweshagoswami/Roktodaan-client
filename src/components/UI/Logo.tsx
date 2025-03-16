@@ -18,11 +18,11 @@ const Logo = ({ mobile = false }: { mobile?: boolean }) => {
         textDecoration: 'none',
       }}
     >
-      <Image src={bloodIcon} alt='Blood Icon' width={50} height={50} />
+      <Image src={bloodIcon} alt='Blood Icon' width={116} height={80} />
       <Typography variant='h5' noWrap fontWeight='800'>
-        <span style={{ color: '#f8345b' }}>Blood</span>
-        <span style={{ color: '#AEFEFF' }}>Aid</span>
-        <span style={{ color: '#D8E3E7' }}>Network</span>
+        <span style={{ color: '#f8345b' }}>RoktoDaan</span>
+        {/* <span style={{ color: '#AEFEFF' }}>Aid</span>
+        <span style={{ color: '#D8E3E7' }}>Network</span> */}
       </Typography>
     </Stack>
   );
